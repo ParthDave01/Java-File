@@ -5,6 +5,7 @@ public class OnetoTenLoop {
         while (counter <= 10) {
             System.out.println(counter);
             counter++;
+
         }
     }
 }
