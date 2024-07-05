@@ -50,7 +50,6 @@ public class BankAccount {
         System.out.println("Enter the Balance: ");
         account.finalBalance = scanner.nextInt();
         System.out.println("Enter the aadhar number: ");
-
         account.aadharNumber = scanner.next();
         account.IFSCCode = "SBI12312300";
         System.out.println("Enter the pan card Number: ");
